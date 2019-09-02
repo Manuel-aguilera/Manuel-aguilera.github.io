@@ -1,5 +1,6 @@
 body
 {
+    background: greenyellow;
     color: deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -7,4 +8,6 @@ body
 button
 {
     background: rebeccapurple;
+    border-radius: 10px;
+    border: inherit;
 }
