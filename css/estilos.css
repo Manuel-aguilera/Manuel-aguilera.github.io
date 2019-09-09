@@ -10,4 +10,5 @@ button
     background: rebeccapurple;
     border-radius: 10px;
     border: inherit;
+    border-radius: 1px;
 }
