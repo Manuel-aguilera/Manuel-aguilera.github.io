@@ -25,6 +25,7 @@ body {
 	border-left: 1px solid white;
 }
 #container {
+	background-color: white;
 	width: 70%;
 	padding: 0em;
 	text-align: left;
