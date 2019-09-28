@@ -36,6 +36,15 @@ body {
 }
 #post {
 	padding: 1em;
-	background-color: white;
-	border-radius: 5px;
+}
+#footer {
+	text-align: center;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 0.5em 1em;
+	color: white;
+	background-color: gray;
+}
+#footer span {
+	margin: 0;
 }
