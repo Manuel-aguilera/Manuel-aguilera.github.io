@@ -8,6 +8,8 @@ body {
 	background-color: #6cd8c1;
 }
 #cabecera {
+	display: flex;
+	align-items: center;
 	background-color: #d8527a;
 	box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
 	color: white;
@@ -48,4 +50,8 @@ body {
 }
 #footer span {
 	margin: 0;
+}
+#icon {
+	width: 25px;
+	height: 25px;
 }
